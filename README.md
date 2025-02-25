@@ -1,8 +1,8 @@
-![Animais Africanos](/img/africa-savannah-animals.jpg)
-
 # Jogo da Forca com Nomes de Animais Africanos
 
 Este é um jogo da forca desenvolvido em Python, onde o jogador deve adivinhar o nome de um animal africano. O jogo escolhe aleatoriamente uma palavra de uma lista de nomes de animais e o jogador tem 6 chances para adivinhar a palavra, inserindo uma letra por vez.
+
+![Animais Africanos](/img/africa-savannah-animals.jpg)
 
 ## Funcionalidades
 
@@ -49,7 +49,6 @@ Quando restam 3 chances, o jogo oferece uma dica ao jogador.
 O jogo termina quando o jogador adivinha a palavra ou perde todas as chances.
 
 ## Contribuição
-
 Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request. Todas as contribuições são bem-vindas!
 
 ## Licença
