@@ -37,17 +37,17 @@ Este é um jogo da forca desenvolvido em Python, onde o jogador deve adivinhar o
 
 ## Funções Principais
 
-**encaixar_letra**: Atualiza a palavra secreta com a letra escolhida pelo jogador. Substitui os caracteres '_' (underlines) pela letra correta nas posições correspondentes.
-**desenhar_forca**: Desenha a forca com base no número de chances restantes. Existem diferentes estágios da forca que são exibidos conforme o jogador perde chances.
+- **encaixar_letra**: Atualiza a palavra secreta com a letra escolhida pelo jogador. Substitui os caracteres '_' (underlines) pela letra correta nas posições correspondentes.
+- **desenhar_forca**: Desenha a forca com base no número de chances restantes. Existem diferentes estágios da forca que são exibidos conforme o jogador perde chances.
 
 ## Dinâmica do Jogo
 
-O jogo começa com uma mensagem de boas-vindas e a escolha aleatória de uma palavra da lista de nomes de animais africanos.
-O jogador tem 6 chances para adivinhar a palavra, inserindo uma letra por vez.
-O jogo verifica se a letra inserida é válida e se já foi escolhida anteriormente.
-Se a letra estiver na palavra, ela é revelada na posição correta. Caso contrário, o jogador perde uma chance.
-Quando restam 3 chances, o jogo oferece uma dica ao jogador.
-O jogo termina quando o jogador adivinha a palavra ou perde todas as chances.
+1. O jogo começa com uma mensagem de boas-vindas e a escolha aleatória de uma palavra da lista de nomes de animais africanos.
+2. O jogador tem 6 chances para adivinhar a palavra, inserindo uma letra por vez.
+3. O jogo verifica se a letra inserida é válida e se já foi escolhida anteriormente.
+4. Se a letra estiver na palavra, ela é revelada na posição correta. Caso contrário, o jogador perde uma chance.
+5. Quando restam 3 chances, o jogo oferece uma dica ao jogador.
+6. O jogo termina quando o jogador adivinha a palavra ou perde todas as chances.
 
 ## Contribuição
 
